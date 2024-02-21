@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 
 class Dog:
-    # Class body goes here
-
-    #Instance method definition
     pass
+
+fido = Dog()
+fido
+
+snoopy = Dog()
+snoopy
+
+lassie = Dog()
+lassie
