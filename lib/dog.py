@@ -1,13 +1,8 @@
 #!/usr/bin/env python3
 
 class Dog:
-    pass
+    def bark(self):
+        print("Woof!")
 
-fido = Dog()
-fido
-
-snoopy = Dog()
-snoopy
-
-lassie = Dog()
-lassie
+    def sit(self):
+        print("The dog is sitting.")
